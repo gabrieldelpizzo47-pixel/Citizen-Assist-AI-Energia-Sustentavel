@@ -1,20 +1,19 @@
-# Testes com usuários — A PREENCHER COM TESTES REAIS
+# Testes com usuários — SERS | Citizen Assist AI
 
-**IMPORTANTE:** Este documento é um roteiro/registro em branco. A equipe NÃO deve declarar que realizou testes que ainda não fez. O enunciado SERS exige verificação da compreensão e utilidade das orientações e registro de situações, comentários e ajustes, sem expor dados pessoais desnecessários. Não há número mínimo fixado no texto que recebemos; sugerimos **3 voluntários** para uma validação simples.
+**Escopo:** registro de dois testes realizados com usuários externos à equipe. O enunciado da SERS exige verificar a compreensão e a utilidade das orientações e documentar comentários e ajustes, sem dados pessoais desnecessários. As informações abaixo reproduzem apenas o feedback relatado. A compreensão das recomendações energéticas não foi confirmada separadamente.
 
-## Procedimento sugerido
-1. Peça a cada pessoa para abrir `index.html` e analisar o cenário inicial.
-2. Solicite duas tarefas: **(a)** descobrir a economia LED; **(b)** identificar uma limitação da energia solar.
-3. Pergunte: “A resposta foi clara?” e “Você confiaria em tomar uma decisão de compra só com esse cálculo? Por quê?”. Explique que é um protótipo didático, sem orientação oficial.
-4. Anote apenas perfil genérico (ex. pessoa A/B/C), tarefas realizadas, feedback e ajustes. **Não registre nome, telefone, CPF, e-mail ou qualquer dado pessoal.**
+## Procedimento de avaliação
+Os participantes utilizaram o site e relataram sua experiência com a interface e as funcionalidades. O registro abaixo é anônimo e não inclui informações pessoais.
 
 | Pessoa (anônima) | Tarefa | Entendeu a resposta? | Comentário real recebido | Ajuste realizado após feedback |
-|---|---|---|---|---|
-| A | LED e economia | PENDENTE | PENDENTE | PENDENTE |
-| B | Solar e limitações | PENDENTE | PENDENTE | PENDENTE |
-| C | Comparar opções | PENDENTE | PENDENTE | PENDENTE |
 
-**Conclusão a preencher depois:** o que ficou claro, o que gerou dificuldade e o que a equipe efetivamente ajustou no software ou no README.
+|---|---|---|---|---|
+
+| A | Navegação, simulações com valores elevados na calculadora e uso do assistente | Não confirmado se compreendeu as orientações; relatou funcionamento das ferramentas | Considerou o site dinâmico e intuitivo. Testou valores fora do habitual e informou que a calculadora e o assistente funcionaram corretamente. | Nenhum até o momento; não foram relatadas dificuldades específicas. |
+
+| B | Navegação, uso da calculadora e do assistente | Não confirmado se compreendeu as recomendações; relatou funcionamento das ferramentas | Considerou o site muito intuitivo e disse que os cálculos e o assistente estavam funcionando corretamente. | Nenhum até o momento; não foram relatadas dificuldades específicas. |
+
+**Conclusão dos dois relatos:** ambos os participantes avaliaram positivamente a usabilidade do site e relataram que a calculadora e o assistente funcionaram. Nenhuma dificuldade específica foi relatada e, por isso, não foram feitos ajustes decorrentes desses feedbacks. Os relatos não comprovam, isoladamente, a precisão matemática dos resultados nem a compreensão detalhada da comparação entre LED e energia solar.
 
 ## Testes técnicos (já executados por código)
 
